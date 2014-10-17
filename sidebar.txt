@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tqb:home|Door43 (tqb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tqb|d43-tqb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tqb/archive/master.zip|d43-tqb.zip]]
+
+**Recent Changes**
+{{changes>ns = tqb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tqb|Ethnologue data]]
+
